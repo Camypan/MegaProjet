@@ -14,6 +14,8 @@ class Mission
 	randomSeed=15526739;
 	class Intel
 	{
+	        briefingName="Takistan Survie";
+		overviewText="Takistan Survie";
 		timeOfChanges=1800.0002;
 		startWeather=0.40000001;
 		startWind=0.1;
@@ -31,26 +33,8 @@ class Mission
 	};
 	class Groups
 	{
-		items=2;
+		items=1;
 		class Item0
-		{
-			side="CIV";
-			class Vehicles
-			{
-				items=1;
-				class Item0
-				{
-					position[]={5519.3765,81.099571,8906.8359};
-					id=0;
-					side="CIV";
-					vehicle="C_man_1";
-					player="PLAYER COMMANDER";
-					leader=1;
-					skill=0.60000002;
-				};
-			};
-		};
-		class Item1
 		{
 			side="CIV";
 			class Vehicles
@@ -60,7 +44,7 @@ class Mission
 				{
 					position[]={0.20041275,91.330086,12799.792};
 					special="NONE";
-					id=1;
+					id=0;
 					side="CIV";
 					vehicle="C_man_1";
 					player="PLAY CDG";
@@ -73,7 +57,7 @@ class Mission
 				{
 					position[]={0.55596852,91.401192,12799.791};
 					special="NONE";
-					id=2;
+					id=1;
 					side="CIV";
 					vehicle="C_man_1";
 					player="PLAY CDG";
@@ -85,7 +69,7 @@ class Mission
 				{
 					position[]={0.91152412,91.472305,12799.809};
 					special="NONE";
-					id=3;
+					id=2;
 					side="CIV";
 					vehicle="C_man_1";
 					player="PLAY CDG";
@@ -97,7 +81,7 @@ class Mission
 				{
 					position[]={1.2670799,91.543419,12799.791};
 					special="NONE";
-					id=4;
+					id=3;
 					side="CIV";
 					vehicle="C_man_1";
 					player="PLAY CDG";
@@ -109,7 +93,7 @@ class Mission
 				{
 					position[]={1.6064744,91.611298,12799.776};
 					special="NONE";
-					id=5;
+					id=4;
 					side="CIV";
 					vehicle="C_man_1";
 					player="PLAY CDG";
