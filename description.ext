@@ -1,1 +1,18 @@
-A FAIRE
+//author = "";
+onLoadName = "Takistan Survie";
+//onLoadMission = "";
+joinUnassigned = 1;
+respawn = BASE;
+respawndelay = 5;
+disabledAI = true;
+disableChannels[]={0,1,2,3};
+enableDebugConsole = 1;
+respawnDialog = 0;
+//loadScreen = "";
+
+class Header
+{
+	gameType = DM;
+	minPlayers = 1;
+	maxPlayers = 5;
+};
