@@ -2,8 +2,11 @@ Le dernier Survivant
 Version 0.1
 
 ChangeLog Camypan :
+2014-10-13
 - Changement du nom des civils pour survi_1, survi_2... (à la place de civ_1, civ_2..)
 - Changement du nom des civils pour Survivant - 1, Survivant -2... (à la place de Civil - 1..)
 - Ajoute de 100 emplacements de Survivant.
+- Modification du description.ext (Nom author,maxPlayers,onLoadName)
+- Mise en place du nouveau mission.sqm
 
 ChangeLog Ppgtjmad :
