@@ -18,3 +18,8 @@ class Header
 };
 
 #include "dialogues\Centralisation.h"
+
+class RscTitles
+{
+	#include "dialogues\ui.hpp"
+};
