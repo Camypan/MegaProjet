@@ -1,1 +1,3 @@
 //versionInfo = "";
+
+[] execVM "jump.sqf";
