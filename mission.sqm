@@ -1244,6 +1244,143 @@ class Mission
 			};
 		};
 	};
+	class Markers
+	{
+		items=19;
+		class Item0
+		{
+			position[]={1885.9564,146.66006,11839.992};
+			name="spawn_survi1";
+			type="Empty";
+			angle=-100;
+		};
+		class Item1
+		{
+			position[]={3078.9468,80.35923,10049.597};
+			name="spawn_survi2";
+			type="Empty";
+			angle=180;
+		};
+		class Item2
+		{
+			position[]={4111.2959,25.223988,11740.8};
+			name="spawn_survi3";
+			type="Empty";
+			angle=90;
+		};
+		class Item3
+		{
+			position[]={2013.7562,277.22568,7687.501};
+			name="spawn_survi4";
+			type="Empty";
+			angle=100;
+		};
+		class Item4
+		{
+			position[]={5909.605,67.266136,10510.631};
+			name="spawn_survi5";
+			type="Empty";
+			angle=110;
+		};
+		class Item5
+		{
+			position[]={9956.2402,137.33524,11315.184};
+			name="spawn_survi6";
+			type="Empty";
+			angle=-20;
+		};
+		class Item6
+		{
+			position[]={12260.082,152.09329,10393.989};
+			name="spawn_survi7";
+			type="Empty";
+			angle=40;
+		};
+		class Item7
+		{
+			position[]={8153.4292,167.62347,7824.1411};
+			name="spawn_survi8";
+			type="Empty";
+			angle=100;
+		};
+		class Item8
+		{
+			position[]={10965.636,308.76456,6501.5093};
+			name="spawn_survi9";
+			type="Empty";
+			angle=-130;
+		};
+		class Item9
+		{
+			position[]={5322.1382,165.58447,6021.083};
+			name="spawn_survi10";
+			type="Empty";
+			angle=-35;
+		};
+		class Item10
+		{
+			position[]={1609.5112,230.11288,5682.1914};
+			name="spawn_survi11";
+			type="Empty";
+			angle=-30;
+		};
+		class Item11
+		{
+			position[]={3873.4902,226.95357,4372.0796};
+			name="spawn_survi12";
+			type="Empty";
+			angle=-80;
+		};
+		class Item12
+		{
+			position[]={6606.5957,363.68961,4592.5522};
+			name="spawn_survi13";
+			type="Empty";
+			angle=25;
+		};
+		class Item13
+		{
+			position[]={8886.0537,273.27518,5378.5371};
+			name="spawn_survi14";
+			type="Empty";
+			angle=150;
+		};
+		class Item14
+		{
+			position[]={1517.8997,228.75105,3669.1626};
+			name="spawn_survi15";
+			type="Empty";
+			angle=60;
+		};
+		class Item15
+		{
+			position[]={4449.4199,349.15262,873.26123};
+			name="spawn_survi16";
+			type="Empty";
+			angle=-150;
+		};
+		class Item16
+		{
+			position[]={6505.1401,350.84875,2082.6624};
+			name="spawn_survi17";
+			type="Empty";
+			angle=-150;
+		};
+		class Item17
+		{
+			position[]={10212.281,355.20459,2435.2761};
+			name="spawn_survi18";
+			type="Empty";
+			angle=-150;
+		};
+		class Item18
+		{
+			position[]={5760.5122,97.35363,8463.9121};
+			name="spawn_survi19";
+			type="Empty";
+			angle=-125;
+		};
+	};
 };
 class Intro
 {
