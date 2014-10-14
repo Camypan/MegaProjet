@@ -8,5 +8,6 @@ ChangeLog Camypan :
 - Ajoute de 100 emplacements de Survivant.
 - Modification du description.ext (Nom author,maxPlayers,onLoadName)
 - Mise en place du nouveau mission.sqm
+- Commencement du site web juste pour info :)
 
 ChangeLog Ppgtjmad :
