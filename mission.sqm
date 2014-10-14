@@ -14,8 +14,8 @@ class Mission
 	randomSeed=15526739;
 	class Intel
 	{
-	        briefingName="Takistan Survie";
-		overviewText="Takistan Survie";
+		briefingName="Le dernier Survivant";
+		overviewText="Version 0.1";
 		timeOfChanges=1800.0002;
 		startWeather=0.40000001;
 		startWind=0.1;
@@ -39,7 +39,7 @@ class Mission
 			side="CIV";
 			class Vehicles
 			{
-				items=5;
+				items=100;
 				class Item0
 				{
 					position[]={0.20041275,91.330086,12799.792};
@@ -50,8 +50,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="civ_1";
-					description="Civil - 1";
+					text="survi_1";
+					description="Survivant - 1";
 				};
 				class Item1
 				{
@@ -62,8 +62,8 @@ class Mission
 					vehicle="C_man_1";
 					player="PLAY CDG";
 					skill=0.60000002;
-					text="civ_2";
-					description="Civil - 2";
+					text="survi_2";
+					description="Survivant - 2";
 				};
 				class Item2
 				{
@@ -74,8 +74,8 @@ class Mission
 					vehicle="C_man_1";
 					player="PLAY CDG";
 					skill=0.60000002;
-					text="civ_3";
-					description="Civil - 3";
+					text="survi_3";
+					description="Survivant - 3";
 				};
 				class Item3
 				{
@@ -86,8 +86,8 @@ class Mission
 					vehicle="C_man_1";
 					player="PLAY CDG";
 					skill=0.60000002;
-					text="civ_4";
-					description="Civil - 4";
+					text="survi_4";
+					description="Survivant - 4";
 				};
 				class Item4
 				{
@@ -98,8 +98,1148 @@ class Mission
 					vehicle="C_man_1";
 					player="PLAY CDG";
 					skill=0.60000002;
-					text="civ_5";
-					description="Civil - 5";
+					text="survi_5";
+					description="Survivant - 5";
+				};
+				class Item5
+				{
+					position[]={1.9212365,91.674248,12799.813};
+					special="NONE";
+					id=5;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_6";
+					description="Survivant - 6";
+				};
+				class Item6
+				{
+					position[]={2.212146,91.73243,12799.781};
+					special="NONE";
+					id=6;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_7";
+					description="Survivant - 7";
+				};
+				class Item7
+				{
+					position[]={2.5030541,91.790611,12799.83};
+					special="NONE";
+					id=7;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_8";
+					description="Survivant - 8";
+				};
+				class Item8
+				{
+					position[]={2.8262875,91.855255,12799.813};
+					special="NONE";
+					id=8;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_9";
+					description="Survivant - 9";
+				};
+				class Item9
+				{
+					position[]={3.1010342,91.91021,12799.846};
+					special="NONE";
+					id=9;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_10";
+					description="Survivant - 10";
+				};
+				class Item10
+				{
+					position[]={3.3919449,91.968391,12799.846};
+					special="NONE";
+					id=10;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_11";
+					description="Survivant - 11";
+				};
+				class Item11
+				{
+					position[]={3.6666918,92.023338,12799.813};
+					special="NONE";
+					id=11;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_12";
+					description="Survivant - 12";
+				};
+				class Item12
+				{
+					position[]={3.9414384,92.078285,12799.846};
+					special="NONE";
+					id=12;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_13";
+					description="Survivant - 13";
+				};
+				class Item13
+				{
+					position[]={4.2161837,92.13324,12799.813};
+					special="NONE";
+					id=13;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_14";
+					description="Survivant - 14";
+				};
+				class Item14
+				{
+					position[]={4.507093,92.191422,12799.845};
+					special="NONE";
+					id=14;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_15";
+					description="Survivant - 15";
+				};
+				class Item15
+				{
+					position[]={4.7656794,92.243134,12799.845};
+					special="NONE";
+					id=15;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_16";
+					description="Survivant - 16";
+				};
+				class Item16
+				{
+					position[]={5.0565877,92.301315,12799.828};
+					special="NONE";
+					id=16;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_17";
+					description="Survivant - 17";
+				};
+				class Item17
+				{
+					position[]={5.3313365,92.35627,12799.813};
+					special="NONE";
+					id=17;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_18";
+					description="Survivant - 18";
+				};
+				class Item18
+				{
+					position[]={5.6060834,92.411217,12799.828};
+					special="NONE";
+					id=18;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_19";
+					description="Survivant - 19";
+				};
+				class Item19
+				{
+					position[]={5.8969917,92.469398,12799.86};
+					special="NONE";
+					id=19;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_20";
+					description="Survivant - 20";
+				};
+				class Item20
+				{
+					position[]={0.15961686,91.321922,12799.503};
+					special="NONE";
+					id=20;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_21";
+					description="Survivant - 21";
+				};
+				class Item21
+				{
+					position[]={0.4990105,91.389801,12799.503};
+					special="NONE";
+					id=21;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_22";
+					description="Survivant - 22";
+				};
+				class Item22
+				{
+					position[]={0.80608141,91.451218,12799.535};
+					special="NONE";
+					id=22;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_23";
+					description="Survivant - 23";
+				};
+				class Item23
+				{
+					position[]={1.145475,91.519096,12799.486};
+					special="NONE";
+					id=23;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_24";
+					description="Survivant - 24";
+				};
+				class Item24
+				{
+					position[]={1.4202234,91.574043,12799.471};
+					special="NONE";
+					id=24;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_25";
+					description="Survivant - 25";
+				};
+				class Item25
+				{
+					position[]={1.7757776,91.645157,12799.503};
+					special="NONE";
+					id=25;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_26";
+					description="Survivant - 26";
+				};
+				class Item26
+				{
+					position[]={2.0666878,91.703339,12799.471};
+					special="NONE";
+					id=26;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_27";
+					description="Survivant - 27";
+				};
+				class Item27
+				{
+					position[]={2.3899202,91.767982,12799.52};
+					special="NONE";
+					id=27;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_28";
+					description="Survivant - 28";
+				};
+				class Item28
+				{
+					position[]={2.6969905,91.829399,12799.503};
+					special="NONE";
+					id=28;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_29";
+					description="Survivant - 29";
+				};
+				class Item29
+				{
+					position[]={3.0040617,91.890816,12799.535};
+					special="NONE";
+					id=29;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_30";
+					description="Survivant - 30";
+				};
+				class Item30
+				{
+					position[]={3.3272936,91.95546,12799.52};
+					special="NONE";
+					id=30;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_31";
+					description="Survivant - 31";
+				};
+				class Item31
+				{
+					position[]={3.6343653,92.016876,12799.503};
+					special="NONE";
+					id=31;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_32";
+					description="Survivant - 32";
+				};
+				class Item32
+				{
+					position[]={3.9414346,92.078285,12799.503};
+					special="NONE";
+					id=32;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_33";
+					description="Survivant - 33";
+				};
+				class Item33
+				{
+					position[]={4.2485061,92.139702,12799.52};
+					special="NONE";
+					id=33;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_34";
+					description="Survivant - 34";
+				};
+				class Item34
+				{
+					position[]={4.5070915,92.191422,12799.535};
+					special="NONE";
+					id=34;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_35";
+					description="Survivant - 35";
+				};
+				class Item35
+				{
+					position[]={4.7980008,92.249603,12799.535};
+					special="NONE";
+					id=35;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_36";
+					description="Survivant - 36";
+				};
+				class Item36
+				{
+					position[]={5.0727472,92.30455,12799.552};
+					special="NONE";
+					id=36;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_37";
+					description="Survivant - 37";
+				};
+				class Item37
+				{
+					position[]={5.347496,92.359497,12799.52};
+					special="NONE";
+					id=37;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_38";
+					description="Survivant - 38";
+				};
+				class Item38
+				{
+					position[]={5.6060815,92.411217,12799.52};
+					special="NONE";
+					id=38;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_39";
+					description="Survivant - 39";
+				};
+				class Item39
+				{
+					position[]={5.8646669,92.462936,12799.535};
+					special="NONE";
+					id=39;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_40";
+					description="Survivant - 40";
+				};
+				class Item40
+				{
+					position[]={0.080801398,91.30616,12799.139};
+					special="NONE";
+					id=40;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_41";
+					description="Survivant - 41";
+				};
+				class Item41
+				{
+					position[]={0.35554889,91.361115,12799.154};
+					special="NONE";
+					id=41;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_42";
+					description="Survivant - 42";
+				};
+				class Item42
+				{
+					position[]={0.66261983,91.422523,12799.123};
+					special="NONE";
+					id=42;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_43";
+					description="Survivant - 43";
+				};
+				class Item43
+				{
+					position[]={0.98585135,91.487167,12799.154};
+					special="NONE";
+					id=43;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_44";
+					description="Survivant - 44";
+				};
+				class Item44
+				{
+					position[]={1.2767617,91.545357,12799.139};
+					special="NONE";
+					id=44;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_45";
+					description="Survivant - 45";
+				};
+				class Item45
+				{
+					position[]={1.5676705,91.603539,12799.154};
+					special="NONE";
+					id=45;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_46";
+					description="Survivant - 46";
+				};
+				class Item46
+				{
+					position[]={1.8585794,91.66172,12799.171};
+					special="NONE";
+					id=46;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_47";
+					description="Survivant - 47";
+				};
+				class Item47
+				{
+					position[]={2.1494882,91.719902,12799.139};
+					special="NONE";
+					id=47;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_48";
+					description="Survivant - 48";
+				};
+				class Item48
+				{
+					position[]={2.4080741,91.771614,12799.154};
+					special="NONE";
+					id=48;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_49";
+					description="Survivant - 49";
+				};
+				class Item49
+				{
+					position[]={2.682821,91.826569,12799.139};
+					special="NONE";
+					id=49;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_50";
+					description="Survivant - 50";
+				};
+				class Item50
+				{
+					position[]={2.9737306,91.88475,12799.154};
+					special="NONE";
+					id=50;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_51";
+					description="Survivant - 51";
+				};
+				class Item51
+				{
+					position[]={3.2808025,91.946159,12799.187};
+					special="NONE";
+					id=51;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_52";
+					description="Survivant - 52";
+				};
+				class Item52
+				{
+					position[]={3.5717103,92.004341,12799.171};
+					special="NONE";
+					id=52;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_53";
+					description="Survivant - 53";
+				};
+				class Item53
+				{
+					position[]={3.8787804,92.065758,12799.154};
+					special="NONE";
+					id=53;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_54";
+					description="Survivant - 54";
+				};
+				class Item54
+				{
+					position[]={4.1373682,92.117477,12799.203};
+					special="NONE";
+					id=54;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_55";
+					description="Survivant - 55";
+				};
+				class Item55
+				{
+					position[]={4.4282765,92.175659,12799.154};
+					special="NONE";
+					id=55;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_56";
+					description="Survivant - 56";
+				};
+				class Item56
+				{
+					position[]={4.703023,92.230606,12799.203};
+					special="NONE";
+					id=56;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_57";
+					description="Survivant - 57";
+				};
+				class Item57
+				{
+					position[]={5.0262561,92.29525,12799.203};
+					special="NONE";
+					id=57;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_58";
+					description="Survivant - 58";
+				};
+				class Item58
+				{
+					position[]={5.3333263,92.356667,12799.171};
+					special="NONE";
+					id=58;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_59";
+					description="Survivant - 59";
+				};
+				class Item59
+				{
+					position[]={5.6565585,92.42131,12799.154};
+					special="NONE";
+					id=59;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_60";
+					description="Survivant - 60";
+				};
+				class Item60
+				{
+					position[]={0.064640813,91.302933,12798.798};
+					special="NONE";
+					id=60;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_61";
+					description="Survivant - 61";
+				};
+				class Item61
+				{
+					position[]={0.33938828,91.35788,12798.798};
+					special="NONE";
+					id=61;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_62";
+					description="Survivant - 62";
+				};
+				class Item62
+				{
+					position[]={0.64645922,91.419296,12798.781};
+					special="NONE";
+					id=62;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_63";
+					description="Survivant - 63";
+				};
+				class Item63
+				{
+					position[]={0.90504539,91.471008,12798.813};
+					special="NONE";
+					id=63;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_64";
+					description="Survivant - 64";
+				};
+				class Item64
+				{
+					position[]={1.2121155,91.532425,12798.781};
+					special="NONE";
+					id=64;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_65";
+					description="Survivant - 65";
+				};
+				class Item65
+				{
+					position[]={1.55151,91.600304,12798.766};
+					special="NONE";
+					id=65;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_66";
+					description="Survivant - 66";
+				};
+				class Item66
+				{
+					position[]={1.842418,91.658485,12798.781};
+					special="NONE";
+					id=66;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_67";
+					description="Survivant - 67";
+				};
+				class Item67
+				{
+					position[]={2.1656511,91.723129,12798.781};
+					special="NONE";
+					id=67;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_68";
+					description="Survivant - 68";
+				};
+				class Item68
+				{
+					position[]={2.4403985,91.778084,12798.813};
+					special="NONE";
+					id=68;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_69";
+					description="Survivant - 69";
+				};
+				class Item69
+				{
+					position[]={2.7474687,91.839493,12798.798};
+					special="NONE";
+					id=69;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_70";
+					description="Survivant - 70";
+				};
+				class Item70
+				{
+					position[]={3.0222154,91.894447,12798.781};
+					special="NONE";
+					id=70;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_71";
+					description="Survivant - 71";
+				};
+				class Item71
+				{
+					position[]={3.3292871,91.955856,12798.813};
+					special="NONE";
+					id=71;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_72";
+					description="Survivant - 72";
+				};
+				class Item72
+				{
+					position[]={3.6201959,92.014038,12798.766};
+					special="NONE";
+					id=72;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_73";
+					description="Survivant - 73";
+				};
+				class Item73
+				{
+					position[]={3.9272671,92.075455,12798.798};
+					special="NONE";
+					id=73;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_74";
+					description="Survivant - 74";
+				};
+				class Item74
+				{
+					position[]={4.2181754,92.133636,12798.798};
+					special="NONE";
+					id=74;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_75";
+					description="Survivant - 75";
+				};
+				class Item75
+				{
+					position[]={4.5090861,92.191818,12798.846};
+					special="NONE";
+					id=75;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_76";
+					description="Survivant - 76";
+				};
+				class Item76
+				{
+					position[]={4.799994,92.25,12798.879};
+					special="NONE";
+					id=76;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_77";
+					description="Survivant - 77";
+				};
+				class Item77
+				{
+					position[]={5.1070657,92.311417,12798.813};
+					special="NONE";
+					id=77;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_78";
+					description="Survivant - 78";
+				};
+				class Item78
+				{
+					position[]={5.3818126,92.366364,12798.846};
+					special="NONE";
+					id=78;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_79";
+					description="Survivant - 79";
+				};
+				class Item79
+				{
+					position[]={5.6888828,92.42778,12798.798};
+					special="NONE";
+					id=79;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_80";
+					description="Survivant - 80";
+				};
+				class Item80
+				{
+					position[]={0.11312103,91.312622,12798.457};
+					special="NONE";
+					id=80;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_81";
+					description="Survivant - 81";
+				};
+				class Item81
+				{
+					position[]={0.40403065,91.370804,12798.474};
+					special="NONE";
+					id=81;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_82";
+					description="Survivant - 82";
+				};
+				class Item82
+				{
+					position[]={0.69493872,91.428986,12798.474};
+					special="NONE";
+					id=82;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_83";
+					description="Survivant - 83";
+				};
+				class Item83
+				{
+					position[]={0.98584825,91.487167,12798.489};
+					special="NONE";
+					id=83;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_84";
+					description="Survivant - 84";
+				};
+				class Item84
+				{
+					position[]={1.2929192,91.548584,12798.457};
+					special="NONE";
+					id=84;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_85";
+					description="Survivant - 85";
+				};
+				class Item85
+				{
+					position[]={1.5676668,91.603531,12798.489};
+					special="NONE";
+					id=85;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_86";
+					description="Survivant - 86";
+				};
+				class Item86
+				{
+					position[]={1.8747369,91.664948,12798.457};
+					special="NONE";
+					id=86;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_87";
+					description="Survivant - 87";
+				};
+				class Item87
+				{
+					position[]={2.1494844,91.719894,12798.474};
+					special="NONE";
+					id=87;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_88";
+					description="Survivant - 88";
+				};
+				class Item88
+				{
+					position[]={2.4403939,91.778076,12798.489};
+					special="NONE";
+					id=88;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_89";
+					description="Survivant - 89";
+				};
+				class Item89
+				{
+					position[]={2.7151415,91.833031,12798.457};
+					special="NONE";
+					id=89;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_90";
+					description="Survivant - 90";
+				};
+				class Item90
+				{
+					position[]={3.0383744,91.897675,12798.44};
+					special="NONE";
+					id=90;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_91";
+					description="Survivant - 91";
+				};
+				class Item91
+				{
+					position[]={3.280797,91.946159,12798.442};
+					special="NONE";
+					id=91;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_92";
+					description="Survivant - 92";
+				};
+				class Item92
+				{
+					position[]={3.6201913,92.014038,12798.44};
+					special="NONE";
+					id=92;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_93";
+					description="Survivant - 93";
+				};
+				class Item93
+				{
+					position[]={3.8787768,92.065758,12798.44};
+					special="NONE";
+					id=93;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_94";
+					description="Survivant - 94";
+				};
+				class Item94
+				{
+					position[]={4.1858482,92.127167,12798.474};
+					special="NONE";
+					id=94;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_95";
+					description="Survivant - 95";
+				};
+				class Item95
+				{
+					position[]={4.4767566,92.185349,12798.474};
+					special="NONE";
+					id=95;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_96";
+					description="Survivant - 96";
+				};
+				class Item96
+				{
+					position[]={4.7515054,92.240303,12798.457};
+					special="NONE";
+					id=96;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_97";
+					description="Survivant - 97";
+				};
+				class Item97
+				{
+					position[]={5.0424137,92.298485,12798.474};
+					special="NONE";
+					id=97;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_98";
+					description="Survivant - 98";
+				};
+				class Item98
+				{
+					position[]={5.3494854,92.359901,12798.457};
+					special="NONE";
+					id=98;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_99";
+					description="Survivant - 99";
+				};
+				class Item99
+				{
+					position[]={5.6565547,92.42131,12798.457};
+					special="NONE";
+					id=99;
+					side="CIV";
+					vehicle="C_man_1";
+					player="PLAY CDG";
+					skill=0.60000002;
+					text="survi_100";
+					description="Survivant - 100";
 				};
 			};
 		};
