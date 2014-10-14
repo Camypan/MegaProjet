@@ -9,5 +9,6 @@ ChangeLog Camypan :
 - Modification du description.ext (Nom author,maxPlayers,onLoadName)
 - Mise en place du nouveau mission.sqm
 - Commencement du site web juste pour info :)
+- Site fini (Oui je sais ses du gros plagia de breaking mais j'ai mis ce background en attendant. (http://lederniersurvivant.atspace.eu/)
 
 ChangeLog Ppgtjmad :
