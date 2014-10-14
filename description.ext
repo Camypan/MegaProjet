@@ -1,5 +1,5 @@
-//author = "";
-onLoadName = "Takistan Survie";
+//author = "Camypan & Ppgtjmad";
+onLoadName = "Le dernier Survivant";
 //onLoadMission = "";
 joinUnassigned = 1;
 respawn = BASE;
@@ -14,5 +14,5 @@ class Header
 {
 	gameType = DM;
 	minPlayers = 1;
-	maxPlayers = 5;
+	maxPlayers = 100;
 };
