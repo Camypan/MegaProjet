@@ -9,7 +9,7 @@
 		onLoad="uiNamespace setVariable ['interfaceJoueur',_this select 0]";
 		objects[]={};
 		
-		class controlsBackground
+		class controleIcones
 		{
 			class iconeNourriture : life_RscPicture 
 			{
@@ -45,7 +45,7 @@
 			};
 		};
 		
-		class controls
+		class controleTextes
 		{
 			class texteNourriture
 			{
