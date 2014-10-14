@@ -2,14 +2,14 @@
    	{
 		idd=-1;
 		movingEnable=0;
-	  fadein=0;
+	        fadein=0;
 		duration = 99999999999999999999999999999999999999999999;
-	  fadeout=0;
+	        fadeout=0;
 		name="interfaceJoueur";
 		onLoad="uiNamespace setVariable ['interfaceJoueur',_this select 0]";
 		objects[]={};
 		
-		class controlsBackground 
+		class controlsBackground
 		{
 			class iconeNourriture : life_RscPicture 
 			{
