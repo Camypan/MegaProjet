@@ -1,1 +1,1 @@
-//life_versionInfo = "";
+//versionInfo = "";
