@@ -1,45 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <Project name="">
         <Package name="Notifications">
-    		            <Key ID="NOTIF_MANGER_1">
- 			                  <Original>You haven't eaten anything in awhile, You should find something to eat soon!</Original>
- 			                  <English>You haven't eaten anything in awhile, You should find something to eat soon!</English>
-			                  <French>Vous n'avez rien mangé depuis un certain temps, vous devriez trouver quelque chose à manger</French>
- 		            </Key>
- 		            <Key ID="NOTIF_MANGER_2">
- 			                  <Original>You are starting to starve, you need to find something to eat otherwise you will die.</Original>
- 			                  <English>You are starting to starve, you need to find something to eat otherwise you will die.</English>
-			                  <French>Vous commencez à mourir de faim, vous avez besoin de trouver quelque chose à manger</French>
- 		            </Key>
- 		            <Key ID="NOTIF_MANGER_3">
- 			                  <Original>You are now starving to death, you will die very soon if you don't eat something</Original>
- 			                  <English>You are now starving to death, you will die very soon if you don't eat something</English>
-			                  <French>Vous êtes en train de mourir de faim, vous allez mourir très bientôt si vous ne mangez pas quelque chose</French>
- 		            </Key>
- 		            <Key ID="NOTIF_MANGER_MORT">
- 			                  <Original>You have starved to death</Original>
- 		 	                  <English>You have starved to death</English>
-			                  <French>Vous êtes mort de faim, c'est con...</French>
- 		            </Key>
- 		           <Key ID="NOTIF_BOIRE_1">
- 			                 <Original>You haven't drank anything in awhile, You should find something to drink soon.</Original>
- 			                 <English>You haven't drank anything in awhile, You should find something to drink soon.</English>
-			                 <French>Vous n'avez rien bu depuis un certain temps, vous devriez trouver quelque chose à boire</French>
- 		           </Key>
- 		           <Key ID="NOTIF_BOIRE_2">
- 			                 <Original>You haven't drank anything in along time, you should find something to drink soon or you'll start to die from dehydration.</Original>
- 			                 <English>You haven't drank anything in along time, you should find something to drink soon or you'll start to die from dehydration.</English>
-			                 <French>Vous commencez à vous déshydrater fortement, vous avez besoin de trouver quelque chose à boire</French>
- 		           </Key>
- 		           <Key ID="NOTIF_BOIRE_3">
- 			                 <Original>You are now suffering from severe dehydration find something to drink quickly!</Original>
- 			                 <English>You are now suffering from severe dehydration find something to drink quickly!</English>
-			                 <French>Vous êtes en train de mourir de soif, vous allez mourir très bientôt si vous ne buvez pas quelque chose</French>
- 		           </Key>
- 		           <Key ID="NOTIF_BOIRE_MORT">
- 			                 <Original>You have died from dehydration</Original>
- 			                 <English>You have died from dehydration</English>
-			                 <French>Vous êtes mort de déshydratation, c'est con...</French>
- 		           </Key>
- 		   </Package>
+    		<Key ID="NOTIF_MANGER_1">
+ 			<Original>You haven't eaten anything in awhile, You should find something to eat soon!</Original>
+ 			<English>You haven't eaten anything in awhile, You should find something to eat soon!</English>
+			<French>Vous n'avez rien mangé depuis un certain temps, vous devriez trouver quelque chose à manger</French>
+ 		</Key>
+ 		<Key ID="NOTIF_MANGER_2">
+ 			<Original>You are starting to starve, you need to find something to eat otherwise you will die.</Original>
+ 			<English>You are starting to starve, you need to find something to eat otherwise you will die.</English>
+			<French>Vous commencez à mourir de faim, vous avez besoin de trouver quelque chose à manger</French>
+ 		</Key>
+ 		<Key ID="NOTIF_MANGER_3">
+ 			<Original>You are now starving to death, you will die very soon if you don't eat something</Original>
+ 			<English>You are now starving to death, you will die very soon if you don't eat something</English>
+			<French>Vous êtes en train de mourir de faim, vous allez mourir très bientôt si vous ne mangez pas quelque chose</French>
+ 		</Key>
+ 	        <Key ID="NOTIF_MANGER_MORT">
+ 			<Original>You have starved to death</Original>
+ 		        <English>You have starved to death</English>
+			<French>Vous êtes mort de faim, c'est con...</French>
+ 		</Key>
+ 		<Key ID="NOTIF_BOIRE_1">
+ 			<Original>You haven't drank anything in awhile, You should find something to drink soon.</Original>
+ 			<English>You haven't drank anything in awhile, You should find something to drink soon.</English>
+			<French>Vous n'avez rien bu depuis un certain temps, vous devriez trouver quelque chose à boire</French>
+ 		</Key>
+ 		<Key ID="NOTIF_BOIRE_2">
+ 			<Original>You haven't drank anything in along time, you should find something to drink soon or you'll start to die from dehydration.</Original>
+ 			<English>You haven't drank anything in along time, you should find something to drink soon or you'll start to die from dehydration.</English>
+			<French>Vous commencez à vous déshydrater fortement, vous avez besoin de trouver quelque chose à boire</French>
+ 		</Key>
+ 		<Key ID="NOTIF_BOIRE_3">
+ 			<Original>You are now suffering from severe dehydration find something to drink quickly!</Original>
+ 			<English>You are now suffering from severe dehydration find something to drink quickly!</English>
+			<French>Vous êtes en train de mourir de soif, vous allez mourir très bientôt si vous ne buvez pas quelque chose</French>
+ 		</Key>
+ 		<Key ID="NOTIF_BOIRE_MORT">
+ 			<Original>You have died from dehydration</Original>
+ 			<English>You have died from dehydration</English>
+		        <French>Vous êtes mort de déshydratation, c'est con...</French>
+ 		</Key>
+        </Package>
 </Project>
