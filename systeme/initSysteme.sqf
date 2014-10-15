@@ -23,8 +23,8 @@ waitUntil {!isNull player && player == player}; //Wait till the player is ready
 //	};
 //};
 
-diag_log "------------------------------------------------------------------------------------------------------";
-diag_log format["                Serveur FIN :: Execution %1 secondes ",(diag_tickTime) - _temps];
-diag_log "------------------------------------------------------------------------------------------------------";
+diag_log "---------------------------------------------------------------------------";
+diag_log format["Serveur FIN :: Execution %1 secondes ",(diag_tickTime) - _temps];
+diag_log "---------------------------------------------------------------------------";
 
 [] execVM "systeme\initSurvie.sqf";
