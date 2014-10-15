@@ -1,7 +1,7 @@
 private["_handle","_temps"];
 _temps = diag_tickTime;
 diag_log "----------------------------------------------------------------------------";
-diag_log "--------------------------------- Serveur DEBUT ----------------------------------";
+diag_log "--------------------------------- Serveur DEBUT ----------------------------";
 diag_log "----------------------------------------------------------------------------";
 waitUntil {!isNull player && player == player}; //Wait till the player is ready
 //diag_log "::Serveur:: Variables DEBUT";
