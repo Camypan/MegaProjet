@@ -23,3 +23,8 @@ class RscTitles
 {
 	#include "dialogues\interface.hpp"
 };
+
+class CfgFunctions
+{
+	#include "Fonctions.h"
+};
