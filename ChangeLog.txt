@@ -15,5 +15,3 @@ ChangeLog Camypan :
 - Commencement du site web juste pour info :)
 - Site français fini (http://lederniersurvivant.atspace.eu/)
 - Site anglais fini (http://thelastsurvivor.atspace.eu/)
-
-ChangeLog Ppgtjmad :
