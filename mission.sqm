@@ -53,8 +53,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_1";
-					description="Survivant - 1";
+					text="survi_10";
+					description="Survivant - 10";
 				};
 			};
 		};
@@ -74,8 +74,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_2";
-					description="Survivant - 2";
+					text="survi_1";
+					description="Survivant - 1";
 				};
 			};
 		};
@@ -95,8 +95,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_3";
-					description="Survivant - 3";
+					text="survi_2";
+					description="Survivant - 2";
 				};
 			};
 		};
@@ -116,8 +116,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_4";
-					description="Survivant - 4";
+					text="survi_3";
+					description="Survivant - 3";
 				};
 			};
 		};
@@ -137,8 +137,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_5";
-					description="Survivant - 5";
+					text="survi_4";
+					description="Survivant - 4";
 				};
 			};
 		};
@@ -158,8 +158,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_6";
-					description="Survivant - 6";
+					text="survi_5";
+					description="Survivant - 5";
 				};
 			};
 		};
@@ -179,8 +179,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_7";
-					description="Survivant - 7";
+					text="survi_6";
+					description="Survivant - 6";
 				};
 			};
 		};
@@ -200,8 +200,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_8";
-					description="Survivant - 8";
+					text="survi_7";
+					description="Survivant - 7";
 				};
 			};
 		};
@@ -221,8 +221,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_9";
-					description="Survivant - 9";
+					text="survi_8";
+					description="Survivant - 8";
 				};
 			};
 		};
@@ -242,8 +242,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_10";
-					description="Survivant - 10";
+					text="survi_9";
+					description="Survivant - 9";
 				};
 			};
 		};
@@ -410,8 +410,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_18";
-					description="Survivant - 18";
+					text="survi_19";
+					description="Survivant - 19";
 				};
 			};
 		};
@@ -431,8 +431,8 @@ class Mission
 					player="PLAY CDG";
 					leader=1;
 					skill=0.60000002;
-					text="survi_19";
-					description="Survivant - 19";
+					text="survi_18";
+					description="Survivant - 18";
 				};
 			};
 		};
@@ -876,6 +876,92 @@ class Mission
 					description="Survivant - 40";
 				};
 			};
+		};
+	};
+	class Markers
+	{
+		items=12;
+		class Item0
+		{
+			position[]={4129.7236,9.5808525,2312.3335};
+			name="spawn_survi1";
+			type="Empty";
+			angle=30;
+		};
+		class Item1
+		{
+			position[]={5059.9385,70.654549,2675.4204};
+			name="spawn_survi2";
+			type="Empty";
+		};
+		class Item2
+		{
+			position[]={3876.7681,32.325943,3353.3545};
+			name="spawn_survi3";
+			type="Empty";
+			angle=60;
+		};
+		class Item3
+		{
+			position[]={5897.4038,13.378374,3850.5962};
+			name="spawn_survi4";
+			type="Empty";
+			angle=-60;
+		};
+		class Item4
+		{
+			position[]={4766.584,109.70618,4005.1907};
+			name="spawn_survi5";
+			type="Empty";
+			angle=50;
+		};
+		class Item5
+		{
+			position[]={5211.2388,101.46149,4768.3169};
+			name="spawn_survi6";
+			type="Empty";
+			angle=40;
+		};
+		class Item6
+		{
+			position[]={4333.7705,34.180664,5208.0811};
+			name="spawn_survi7";
+			type="Empty";
+			angle=45;
+		};
+		class Item7
+		{
+			position[]={4788.4038,116.75517,6315.4058};
+			name="spawn_survi8";
+			type="Empty";
+			angle=30;
+		};
+		class Item8
+		{
+			position[]={4460.2524,4.6367669,7071.7212};
+			name="spawn_survi9";
+			type="Empty";
+		};
+		class Item9
+		{
+			position[]={3970.136,48.348202,8050.7515};
+			name="spawn_survi10";
+			type="Empty";
+			angle=150;
+		};
+		class Item10
+		{
+			position[]={6166.5181,136.20149,7955.7197};
+			name="spawn_survi11";
+			type="Empty";
+			angle=-150;
+		};
+		class Item11
+		{
+			position[]={6170.5796,9.6885929,7195.3936};
+			name="spawn_survi12";
+			type="Empty";
+			angle=-150;
 		};
 	};
 };
