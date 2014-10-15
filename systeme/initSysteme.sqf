@@ -5,7 +5,7 @@ diag_log "--------------------------------- Serveur DEBUT ----------------------
 diag_log "----------------------------------------------------------------------------";
 waitUntil {!isNull player && player == player}; //Wait till the player is ready
 //diag_log "::Serveur:: Variables DEBUT";
-//[] call compile PreprocessFileLineNumbers "core\configuration.sqf";
+//[] call compile PreprocessFileLineNumbers "config\configGenerale.sqf";
 //diag_log "::Serveur:: Variables FIN";
 //diag_log "::Serveur:: Eventhandlers DEBUT";
 //[] call survie_cp_setupEVH;
