@@ -6,7 +6,7 @@
 		else
 		{
 		cp_famine = cp_famine - 10;
-		[] call updateInterface.sqf;
+		[] call cp_updateInterface;
 		if(cp_famine < 2) then {player setDamage 1; hint localize "NOTIF_MANGER_MORT";};
 		switch(cp_famine) do {
 			case 30: {hint localize "NOTIF_MANGER_1";};
@@ -22,7 +22,7 @@
 		else
 		{
 			cp_deshydratation = cp_deshydratation - 10;
-			[] call updateInterface.sqf;
+			[] call cp_updateInterface;
 			if(cp_deshydratation < 2) then {player setDamage 1; hint localize "NOTIF_BOIRE_MORT";};
 			switch(cp_deshydratation) do 
 			{
