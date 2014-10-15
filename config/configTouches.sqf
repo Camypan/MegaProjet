@@ -6,7 +6,7 @@ _alt = _this select 3;
 _handled = false;
 _interruption = [17,30,31,32]; //A,S,W,D
 
-//Vault handling...
+//
 if((_code in (actionKeys "GetOver") || _code in (actionKeys "salute"))) exitWith {
 	true;
 };
