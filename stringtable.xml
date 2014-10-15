@@ -4,10 +4,7 @@
     		            <Key ID="NOTIF_MANGER_1">
  			                  <Original>You haven't eaten anything in awhile, You should find something to eat soon!</Original>
  			                  <English>You haven't eaten anything in awhile, You should find something to eat soon!</English>
-			                  <German>Du hast schon eine Weile nichts mehr gegessen, du solltest schnell etwas zum Essen suchen!</German>
 			                  <French>Vous n'avez rien mangé depuis un certain temps, vous devriez trouver quelque chose à manger</French>
-			                  <Italian>E' da tempo che non mangi qualcosa, dovresti trovare qualcosa da mettere sotto i denti in fretta!</Italian>
-			                  <Portuguese>Você não come a bastante tempo. Coma algo em breve.</Portuguese>
  		            </Key>
  		            <Key ID="NOTIF_MANGER_2">
  			                  <Original>You are starting to starve, you need to find something to eat otherwise you will die.</Original>
