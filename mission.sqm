@@ -54,6 +54,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_10";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 10";
 				};
 			};
@@ -75,6 +90,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_1";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 1";
 				};
 			};
@@ -96,6 +126,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_2";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 2";
 				};
 			};
@@ -117,6 +162,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_3";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 3";
 				};
 			};
@@ -138,6 +198,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_4";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 4";
 				};
 			};
@@ -159,6 +234,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_5";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 5";
 				};
 			};
@@ -180,6 +270,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_6";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 6";
 				};
 			};
@@ -201,6 +306,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_7";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 7";
 				};
 			};
@@ -222,6 +342,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_8";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 8";
 				};
 			};
@@ -243,6 +378,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_9";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 9";
 				};
 			};
@@ -264,6 +414,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_11";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 11";
 				};
 			};
@@ -285,6 +450,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_12";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 12";
 				};
 			};
@@ -306,6 +486,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_13";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 13";
 				};
 			};
@@ -327,6 +522,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_14";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 14";
 				};
 			};
@@ -348,6 +558,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_15";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 15";
 				};
 			};
@@ -369,6 +594,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_16";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 16";
 				};
 			};
@@ -390,6 +630,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_17";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 17";
 				};
 			};
@@ -411,6 +666,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_19";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 19";
 				};
 			};
@@ -432,6 +702,20 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_18";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 18";
 				};
 			};
@@ -453,6 +737,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_20";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 20";
 				};
 			};
@@ -474,6 +773,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_21";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 21";
 				};
 			};
@@ -495,6 +809,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_22";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 22";
 				};
 			};
@@ -516,6 +845,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_23";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 23";
 				};
 			};
@@ -537,6 +881,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_24";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 24";
 				};
 			};
@@ -558,6 +917,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_25";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 25";
 				};
 			};
@@ -579,6 +953,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_26";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 26";
 				};
 			};
@@ -600,6 +989,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_27";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 27";
 				};
 			};
@@ -621,6 +1025,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_28";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 28";
 				};
 			};
@@ -642,6 +1061,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_29";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 29";
 				};
 			};
@@ -663,6 +1097,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_30";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 30";
 				};
 			};
@@ -684,6 +1133,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_31";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 31";
 				};
 			};
@@ -705,6 +1169,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_32";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 32";
 				};
 			};
@@ -726,6 +1205,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_33";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 33";
 				};
 			};
@@ -747,6 +1241,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_34";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 34";
 				};
 			};
@@ -768,6 +1277,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_35";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 35";
 				};
 			};
@@ -789,6 +1313,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_36";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 36";
 				};
 			};
@@ -810,6 +1349,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_37";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 37";
 				};
 			};
@@ -831,6 +1385,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_38";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 38";
 				};
 			};
@@ -852,6 +1421,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_39";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 39";
 				};
 			};
@@ -873,6 +1457,21 @@ class Mission
 					leader=1;
 					skill=0.60000002;
 					text="survi_40";
+					markers[]=
+					{
+						"spawn_survi10",
+						"spawn_survi11",
+						"spawn_survi12",
+						"spawn_survi9",
+						"spawn_survi8",
+						"spawn_survi7",
+						"spawn_survi6",
+						"spawn_survi5",
+						"spawn_survi4",
+						"spawn_survi3",
+						"spawn_survi2",
+						"spawn_survi1"
+					};
 					description="Survivant - 40";
 				};
 			};
@@ -883,82 +1482,82 @@ class Mission
 		items=12;
 		class Item0
 		{
-			position[]={4129.7236,9.5808525,2312.3335};
+			position[]={4129.687,9.5870209,2312.4519};
 			name="spawn_survi1";
 			type="Empty";
 			angle=30;
 		};
 		class Item1
 		{
-			position[]={5059.9385,70.654549,2675.4204};
+			position[]={5059.9507,70.654739,2675.3877};
 			name="spawn_survi2";
 			type="Empty";
 		};
 		class Item2
 		{
-			position[]={3876.7681,32.325943,3353.3545};
+			position[]={3876.821,32.325943,3353.3772};
 			name="spawn_survi3";
 			type="Empty";
 			angle=60;
 		};
 		class Item3
 		{
-			position[]={5897.4038,13.378374,3850.5962};
+			position[]={5897.3926,13.380674,3850.5444};
 			name="spawn_survi4";
 			type="Empty";
 			angle=-60;
 		};
 		class Item4
 		{
-			position[]={4766.584,109.70618,4005.1907};
+			position[]={4766.5854,109.70585,4005.1997};
 			name="spawn_survi5";
 			type="Empty";
 			angle=50;
 		};
 		class Item5
 		{
-			position[]={5211.2388,101.46149,4768.3169};
+			position[]={5211.2642,101.45221,4768.2842};
 			name="spawn_survi6";
 			type="Empty";
 			angle=40;
 		};
 		class Item6
 		{
-			position[]={4333.7705,34.180664,5208.0811};
+			position[]={4333.7832,34.180759,5208.0195};
 			name="spawn_survi7";
 			type="Empty";
 			angle=45;
 		};
 		class Item7
 		{
-			position[]={4788.4038,116.75517,6315.4058};
+			position[]={4788.3979,116.75417,6315.395};
 			name="spawn_survi8";
 			type="Empty";
 			angle=30;
 		};
 		class Item8
 		{
-			position[]={4460.2524,4.6367669,7071.7212};
+			position[]={4460.2686,4.6390667,7071.7012};
 			name="spawn_survi9";
 			type="Empty";
 		};
 		class Item9
 		{
-			position[]={3970.136,48.348202,8050.7515};
+			position[]={3971.5715,48.415363,8049.0283};
 			name="spawn_survi10";
 			type="Empty";
 			angle=150;
 		};
 		class Item10
 		{
-			position[]={6166.5181,136.20149,7955.7197};
+			position[]={6166.5059,136.20256,7955.7124};
 			name="spawn_survi11";
 			type="Empty";
 			angle=-150;
 		};
 		class Item11
 		{
-			position[]={6170.5796,9.6885929,7195.3936};
+			position[]={6170.5923,9.6890297,7195.4194};
 			name="spawn_survi12";
 			type="Empty";
 			angle=-150;
