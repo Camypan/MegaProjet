@@ -19,7 +19,7 @@
  	        <Key ID="NOTIF_MANGER_MORT">
  			<Original>You have starved to death</Original>
  		        <English>You have starved to death</English>
-			<French>Vous êtes mort de faim, c'est con...</French>
+			<French>Vous êtes mort de faim</French>
  		</Key>
  		<Key ID="NOTIF_BOIRE_1">
  			<Original>You haven't drank anything in awhile, You should find something to drink soon.</Original>
@@ -39,7 +39,7 @@
  		<Key ID="NOTIF_BOIRE_MORT">
  			<Original>You have died from dehydration</Original>
  			<English>You have died from dehydration</English>
-		        <French>Vous êtes mort de déshydratation, c'est con...</French>
+		        <French>Vous êtes mort de déshydratation</French>
  		</Key>
         </Package>
 </Project>
