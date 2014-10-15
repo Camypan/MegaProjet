@@ -16,8 +16,8 @@ switch (_code) do
 	//Saut (Espace)
 	case 57:
 	{
-			[player,true] spawn fn_jump; //Exécution locale
-			[[player,false],"fn_jump",nil,false] call fn_MP; //Exécution globale
+			[player,true] spawn survie_cp_jump; //Exécution locale
+			[[player,false],"fn_jump",nil,false] call survie_cp_MP; //Exécution globale
 			_handled = true;
 		};
 	};
