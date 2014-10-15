@@ -19,9 +19,10 @@ class Survie
 		class configActions {};
 	};
 	
-	class factions
+	class systeme
 	{
-		file = "factions"
+		file = "systeme"
 		class initSurvivants {};
+		class bienvenue {};
 	};
 };
