@@ -5,9 +5,13 @@ ChangeLog Camypan :
 2014-10-13
 - Changement du nom des civils pour survi_1, survi_2... (à la place de civ_1, civ_2..)
 - Changement du nom des civils pour Survivant - 1, Survivant -2... (à la place de Civil - 1..)
-- Ajoute de 100 emplacements de Survivant.
+- Ajoute de 40 emplacements de Survivant
+- Survivants réliés avec les spawns
 - Modification du description.ext (Nom author,maxPlayers,onLoadName)
-- Mise en place du nouveau mission.sqm
+- Ajout de 43 spawns d'épaves
+- Ajout de 12 spawns de joueurs
+- Ajout de 43 spawns de vehicules
+- Ajoute de 82 spawns de bateau
 - Commencement du site web juste pour info :)
 - Site français fini (http://lederniersurvivant.atspace.eu/)
 - Site anglais fini (http://thelastsurvivor.atspace.eu/)
