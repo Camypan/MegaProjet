@@ -3,7 +3,7 @@ _temps = diag_tickTime;
 diag_log "----------------------------------------------------------------------------";
 diag_log "--------------------------------- Serveur DEBUT ----------------------------";
 diag_log "----------------------------------------------------------------------------";
-waitUntil {!isNull player && player == player}; //Wait till the player is ready
+waitUntil {!isNull player && player == player};
 //diag_log "::Serveur:: Variables DEBUT";
 //[] call compile PreprocessFileLineNumbers "config\configGenerale.sqf";
 //diag_log "::Serveur:: Variables FIN";
