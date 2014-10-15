@@ -18,4 +18,10 @@ class Survie
 		class configTouches {};
 		class configActions {};
 	};
+	
+	class factions
+	{
+		file = "factions"
+		class initSurvivants {};
+	};
 };
