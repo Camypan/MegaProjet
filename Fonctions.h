@@ -16,5 +16,6 @@ class Survie
 		class configVarStr {};
 		class configVar {};
 		class configTouches {};
+		class configActions {};
 	};
 };
