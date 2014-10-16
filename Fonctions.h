@@ -7,6 +7,7 @@ class Survie
 		file = "fonctions";
 		class initInterface {};
 		class updateInterface {};
+		class jump {};
 	};
 	
 	class config
