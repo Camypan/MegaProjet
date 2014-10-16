@@ -1,3 +1,3 @@
 /* VARIABLES */
-survie_eau = 100;
-survie_nourriture = 100;
+survie_deshydratation = 100;
+survie_famine = 100;
