@@ -15,7 +15,7 @@ switch (_code) do
 	//Saut (Espace)
 	case 57:
 	{
-			[player,true] spawn survie_fnc_jump; //Exécution locale
+			[player,true] spawn survie_fnc_saut; //Exécution locale
 			_handled = true;
 		};
 	};
