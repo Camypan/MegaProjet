@@ -4,7 +4,7 @@ class CfgPatches
 	class survie_serveur
 	{
 		fileName = "survie_serveur.pbo";
-		author[]= {""}; 
+		//author[]= {""}; 
 	};
 };
 
