@@ -6,7 +6,6 @@ _alt = _this select 3;
 _handled = false;
 _interruption = [17,30,31,32]; //A,S,W,D
 
-//
 if((_code in (actionKeys "GetOver") || _code in (actionKeys "salute"))) exitWith {
 	true;
 };
@@ -16,8 +15,7 @@ switch (_code) do
 	//Saut (Espace)
 	case 57:
 	{
-			[player,true] spawn survie_cp_jump; //Exécution locale
-			[[player,false],"fn_jump",nil,false] call survie_cp_MP; //Exécution globale
+			[player,true] spawn survie_fnc_jump; //Exécution locale
 			_handled = true;
 		};
 	};
