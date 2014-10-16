@@ -1,2 +1,2 @@
-[] call survie_cp_bienvenue;
-[] call survie_cp_initInterface;
+[] call survie_fnc_bienvenue;
+[] call survie_fnc_initInterface;
