@@ -36,8 +36,8 @@ class CfgFunctions
 		class systeme
 		{
 			file = "\survie_serveur\systeme";
-			class clientDisconnect {};
-			class cleanupRequest {};
+			class clientDeconnection {};
+			class requeteNettoyage {};
 		};
 	};
 };
