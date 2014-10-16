@@ -14,6 +14,9 @@ diag_log "::Serveur:: Variables FIN";
 //[] call survie_fnc_configActions;
 //diag_log "::Life Client:: Actions FIN";
 
+waitUntil{!isNil "survie_serveur_pret"};
+waitUntil{(survie_serveur_pret)};
+
 switch (playerSide) do
 {
 	case civilian:
