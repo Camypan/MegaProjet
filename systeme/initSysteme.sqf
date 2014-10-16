@@ -8,17 +8,17 @@ waitUntil {!isNull player && player == player};
 //[] call compile PreprocessFileLineNumbers "config\configGenerale.sqf";
 //diag_log "::Serveur:: Variables FIN";
 //diag_log "::Serveur:: Eventhandlers DEBUT";
-//[] call survie_cp_setupEVH;
+//[] call survie_fnc_setupEVH;
 //diag_log "::Serveur:: Eventhandlers FIN";
 //diag_log "::Serveut:: Actions DEBUT";
-//[] call survie_cp_configActions;
+//[] call survie_fnc_configActions;
 //diag_log "::Life Client:: Actions FIN";
 
 //switch (playerSide) do
 //{
 //	case civilian:
 //	{
-//		_handle = [] spawn survie_cp_initSurvivants;
+//		_handle = [] spawn survie_fnc_initSurvivants;
 //		waitUntil {scriptDone _handle};
 //	};
 //};
