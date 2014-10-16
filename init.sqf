@@ -1,3 +1,3 @@
-//cp_versionInfo = "";
+//survie_versionInfo = "";
 
 [] execVM "climat\randomWeather2.sqf";
