@@ -1,2 +1,2 @@
-#define texteEau 2001
-#define texteNourriture 2002
+#define texte_Eau 2001
+#define texte_Nourriture 2002
