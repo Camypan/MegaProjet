@@ -2,7 +2,7 @@ private["_interface","_nourriture","_eau","_sante"];
 disableSerialization;
 
 _interface = uiNameSpace getVariable ["interfaceJoueur",displayNull];
-if(isNull _interface) then {[] call cp_initInterface;};
+if(isNull _interface) then {[] call survie_fnc_initInterface;};
 _nourriture = _interface displayCtrl 23500;
 _eau = _interface displayCtrl 23510;
 _sante = _interface displayCtrl 23515;
