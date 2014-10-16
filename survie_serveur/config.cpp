@@ -10,7 +10,7 @@ class CfgPatches
 
 class CfgFunctions
 {
-	class BIS_Overwrite
+	class BIS
 	{
 		tag = "BIS";
 		class MP
@@ -27,6 +27,17 @@ class CfgFunctions
 			class onPlayerConnected{};
 			class initPlayable{};
 			class missionTimeLeft{};
+		};
+	};
+	
+	class SURVIE
+	{
+		tag = "SURVIE";
+		class systeme
+		{
+			file = "\survie_serveur\systeme";
+			class clientDisconnect {};
+			class cleanupRequest {};
 		};
 	};
 };
