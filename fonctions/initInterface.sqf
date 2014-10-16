@@ -6,7 +6,7 @@ _version = _display displayCtrl 1000;
 
 2 cutRsc ["interfaceJoueur","PLAIN"];
 _version ctrlSetText format["BETA: 0.%1.%2",(productVersion select 2),(productVersion select 3)];
-[] call survie_cp_updateInterface;
+[] call survie_fnc_updateInterface;
 
 [] spawn
 {
@@ -15,6 +15,6 @@ _version ctrlSetText format["BETA: 0.%1.%2",(productVersion select 2),(productVe
 	{
 		_dam = damage player;
 		waitUntil {(damage player) != _dam};
-		[] call survie_cp_updateInterface;
+		[] call survie_fnc_updateInterface;
 	};
 };
