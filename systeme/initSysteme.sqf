@@ -7,12 +7,6 @@ waitUntil {!isNull player && player == player};
 diag_log "::Serveur:: Variables DEBUT";
 [] call compile PreprocessFileLineNumbers "config\configGenerale.sqf";
 diag_log "::Serveur:: Variables FIN";
-//diag_log "::Serveur:: Eventhandlers DEBUT";
-//[] call survie_fnc_initEVH;
-//diag_log "::Serveur:: Eventhandlers FIN";
-//diag_log "::Serveut:: Actions DEBUT";
-//[] call survie_fnc_configActions;
-//diag_log "::Life Client:: Actions FIN";
 
 waitUntil{!isNil "survie_serveur_pret"};
 waitUntil{(survie_serveur_pret)};
