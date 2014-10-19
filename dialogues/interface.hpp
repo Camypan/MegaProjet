@@ -11,7 +11,7 @@
 		
 		class controleIcones
 		{
-			class iconeNourriture : survie_RscPicture 
+			class iconeNourriture : RscPicture 
 			{
 			
 				idc = -1;
@@ -22,7 +22,7 @@
 				h = 0.04;
 			};
 			
-			class iconeEau : survie_RscPicture 
+			class iconeEau : RscPicture 
 			{
 			
 				idc = -1;
@@ -33,7 +33,7 @@
 				h = 0.04;
 			};
 			
-			class iconeSante : survie_RscPicture
+			class iconeSante : RscPicture
 			{
 				
 				idc = -1;
