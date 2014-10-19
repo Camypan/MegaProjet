@@ -25,6 +25,6 @@ class Survie
 		file = "systeme"
 		class initSurvivants {};
 		class bienvenue {};
-		class initEVH {};
+		//class initEVH {};
 	};
 };
