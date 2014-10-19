@@ -56,18 +56,18 @@ class Mission
 					text="survi_1";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 1";
 				};
@@ -92,18 +92,18 @@ class Mission
 					text="survi_2";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 2";
 				};
@@ -128,18 +128,18 @@ class Mission
 					text="survi_3";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 3";
 				};
@@ -164,18 +164,18 @@ class Mission
 					text="survi_4";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 4";
 				};
@@ -200,18 +200,18 @@ class Mission
 					text="survi_5";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 5";
 				};
@@ -236,18 +236,18 @@ class Mission
 					text="survi_6";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 6";
 				};
@@ -272,18 +272,18 @@ class Mission
 					text="survi_7";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 7";
 				};
@@ -308,18 +308,18 @@ class Mission
 					text="survi_8";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 8";
 				};
@@ -344,18 +344,18 @@ class Mission
 					text="survi_9";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 9";
 				};
@@ -380,18 +380,18 @@ class Mission
 					text="survi_10";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 10";
 				};
@@ -416,18 +416,18 @@ class Mission
 					text="survi_11";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 11";
 				};
@@ -452,18 +452,18 @@ class Mission
 					text="survi_12";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 12";
 				};
@@ -488,18 +488,18 @@ class Mission
 					text="survi_13";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 13";
 				};
@@ -524,18 +524,18 @@ class Mission
 					text="survi_14";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 14";
 				};
@@ -560,18 +560,18 @@ class Mission
 					text="survi_15";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 15";
 				};
@@ -596,18 +596,18 @@ class Mission
 					text="survi_16";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 16";
 				};
@@ -632,18 +632,18 @@ class Mission
 					text="survi_17";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 17";
 				};
@@ -668,18 +668,18 @@ class Mission
 					text="survi_18";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 18";
 				};
@@ -704,17 +704,17 @@ class Mission
 					text="survi_19";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 19";
 				};
@@ -739,18 +739,18 @@ class Mission
 					text="survi_20";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 20";
 				};
@@ -775,18 +775,18 @@ class Mission
 					text="survi_21";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 21";
 				};
@@ -811,18 +811,18 @@ class Mission
 					text="survi_22";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 22";
 				};
@@ -847,18 +847,18 @@ class Mission
 					text="survi_23";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 23";
 				};
@@ -883,18 +883,18 @@ class Mission
 					text="survi_24";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 24";
 				};
@@ -919,18 +919,18 @@ class Mission
 					text="survi_25";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 25";
 				};
@@ -955,18 +955,18 @@ class Mission
 					text="survi_26";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 26";
 				};
@@ -991,18 +991,18 @@ class Mission
 					text="survi_27";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 27";
 				};
@@ -1027,18 +1027,18 @@ class Mission
 					text="survi_28";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 28";
 				};
@@ -1063,18 +1063,18 @@ class Mission
 					text="survi_29";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 29";
 				};
@@ -1099,18 +1099,18 @@ class Mission
 					text="survi_30";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 30";
 				};
@@ -1135,18 +1135,18 @@ class Mission
 					text="survi_31";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 31";
 				};
@@ -1171,18 +1171,18 @@ class Mission
 					text="survi_32";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 32";
 				};
@@ -1207,18 +1207,18 @@ class Mission
 					text="survi_33";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 33";
 				};
@@ -1243,18 +1243,18 @@ class Mission
 					text="survi_34";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 34";
 				};
@@ -1279,18 +1279,18 @@ class Mission
 					text="survi_35";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 35";
 				};
@@ -1315,18 +1315,18 @@ class Mission
 					text="survi_36";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 36";
 				};
@@ -1351,18 +1351,18 @@ class Mission
 					text="survi_37";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 37";
 				};
@@ -1387,18 +1387,18 @@ class Mission
 					text="survi_38";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 38";
 				};
@@ -1423,18 +1423,18 @@ class Mission
 					text="survi_39";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 39";
 				};
@@ -1459,18 +1459,18 @@ class Mission
 					text="survi_40";
 					markers[]=
 					{
-						"spawn_survi10",
-						"spawn_survi11",
-						"spawn_survi12",
-						"spawn_survi9",
-						"spawn_survi8",
-						"spawn_survi7",
-						"spawn_survi6",
-						"spawn_survi5",
-						"spawn_survi4",
-						"spawn_survi3",
-						"spawn_survi2",
-						"spawn_survi1"
+						"respawn_civilian10",
+						"respawn_civilian11",
+						"respawn_civilian12",
+						"respawn_civilian9",
+						"respawn_civilian8",
+						"respawn_civilian7",
+						"respawn_civilian6",
+						"respawn_civilian5",
+						"respawn_civilian4",
+						"respawn_civilian3",
+						"respawn_civilian2",
+						"respawn_civilian1"
 					};
 					description="Survivant - 40";
 				};
@@ -1483,82 +1483,82 @@ class Mission
 		class Item0
 		{
 			position[]={4129.687,9.5870209,2312.4519};
-			name="spawn_survi1";
+			name="respawn_civilian1";
 			type="Empty";
 			angle=30;
 		};
 		class Item1
 		{
 			position[]={5059.9507,70.654739,2675.3877};
-			name="spawn_survi2";
+			name="respawn_civilian2";
 			type="Empty";
 		};
 		class Item2
 		{
 			position[]={3876.821,32.325943,3353.3772};
-			name="spawn_survi3";
+			name="respawn_civilian3";
 			type="Empty";
 			angle=60;
 		};
 		class Item3
 		{
 			position[]={5897.3926,13.380674,3850.5444};
-			name="spawn_survi4";
+			name="respawn_civilian4";
 			type="Empty";
 			angle=-60;
 		};
 		class Item4
 		{
 			position[]={4766.5854,109.70585,4005.1997};
-			name="spawn_survi5";
+			name="respawn_civilian5";
 			type="Empty";
 			angle=50;
 		};
 		class Item5
 		{
 			position[]={5211.2642,101.45221,4768.2842};
-			name="spawn_survi6";
+			name="respawn_civilian6";
 			type="Empty";
 			angle=40;
 		};
 		class Item6
 		{
 			position[]={4333.7832,34.180759,5208.0195};
-			name="spawn_survi7";
+			name="respawn_civilian7";
 			type="Empty";
 			angle=45;
 		};
 		class Item7
 		{
 			position[]={4788.3979,116.75417,6315.395};
-			name="spawn_survi8";
+			name="respawn_civilian8";
 			type="Empty";
 			angle=30;
 		};
 		class Item8
 		{
 			position[]={4460.2686,4.6390667,7071.7012};
-			name="spawn_survi9";
+			name="respawn_civilian9";
 			type="Empty";
 		};
 		class Item9
 		{
 			position[]={3971.5715,48.415363,8049.0283};
-			name="spawn_survi10";
+			name="respawn_civilian10";
 			type="Empty";
 			angle=150;
 		};
 		class Item10
 		{
 			position[]={6166.5059,136.20256,7955.7124};
-			name="spawn_survi11";
+			name="respawn_civilian11";
 			type="Empty";
 			angle=-150;
 		};
 		class Item11
 		{
 			position[]={6170.5923,9.6890297,7195.4194};
-			name="spawn_survi12";
+			name="respawn_civilian12";
 			type="Empty";
 			angle=-150;
 		};
