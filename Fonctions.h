@@ -13,11 +13,11 @@ class Survie
 	class config
 	{
 		file = "config";
-		class configPoidsObjets {};
-		class configVarStr {};
-		class configVar {};
+		//class configPoidsObjets {};
+		//class configVarStr {};
+		//class configVar {};
 		class configTouches {};
-		class configActions {};
+		//class configActions {};
 	};
 	
 	class systeme
