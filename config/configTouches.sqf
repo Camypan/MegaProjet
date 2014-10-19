@@ -16,7 +16,7 @@ switch (_code) do
 	case 57:
 	{
 			[player,true] spawn survie_fnc_saut; //Exécution locale
-			[[player,false],"survie_fnc_saut",nil,FALSE] call life_fnc_MP; //Exécution globale
+			[[player,false],"survie_fnc_saut",nil,FALSE] call survie_ss_MP; //Exécution globale
 			_handled = true;
 		};
 	};
