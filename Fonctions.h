@@ -2,9 +2,9 @@ class Survie
 {
 	tag = "survie";
 	
-	class fonctions
+	class functions
 	{
-		file = "fonctions";
+		file = "functions";
 		class initInterface {};
 		class updateInterface {};
 		class saut {};
